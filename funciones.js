@@ -1,3 +1,3 @@
 function f1() {
-    console.logo('Hola mundo.')
+    console.log('Hola mundo.')
 }
